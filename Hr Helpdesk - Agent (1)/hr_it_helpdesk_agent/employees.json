@@ -1,0 +1,14 @@
+{
+  "employees": {
+    "E102": {
+      "country": "India",
+      "manager": "Sample Manager",
+      "grade": "G5"
+    },
+    "E103": {
+      "country": "Sri Lanka",
+      "manager": "Sample Manager",
+      "grade": "G4"
+    }
+  }
+}
